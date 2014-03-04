@@ -1,7 +1,7 @@
-####Computer Graphics Source Codes
+#Computer Graphics Source Codes
 
 
-# These source codes were copied from different tutorials in order to understand better and easier how does OpenGl on Linux work
+These source codes were copied from different tutorials in order to understand better and easier how does OpenGl on Linux work
 
 
 ##Installing OpenGl in Linux
