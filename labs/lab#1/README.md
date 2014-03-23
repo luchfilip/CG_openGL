@@ -6,4 +6,4 @@ I have chosen the following project:
 
 Shortly, I would like it to work as follows:
 
-![Robotic Hand](arm.png)
+![Robotic Hand](https://raw.githubusercontent.com/luchfilip/CG_openGL/master/labs/lab%231/src/arm.png)
